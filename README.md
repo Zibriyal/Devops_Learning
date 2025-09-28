@@ -1,8 +1,3 @@
-Great! Here's a `README.md` template tailored for a **DevOps Learning** repository. It assumes you're creating a comprehensive learning path and want to document tools, topics, and possibly link to notes or projects you build along the way.
-
----
-
-### ✅ Sample `README.md` for a `devops-learning` GitHub Repository
 
 ```markdown
 # 🚀 DevOps Learning Journey
