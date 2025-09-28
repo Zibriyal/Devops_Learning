@@ -83,7 +83,6 @@ ec2-setup/
 ## 🔧 Tools & Services Used
 
 * **AWS EC2** (Ubuntu 22.04 LTS)
-* **EBS (Elastic Block Store)**
 * **Apache Web Server**
 * **Linux CLI**
 * **SSH**
@@ -97,3 +96,4 @@ ec2-setup/
 * Gained hands-on cloud skills applicable to **real DevOps/Cloud projects**
 
 ---
+
