@@ -26,7 +26,7 @@ This project demonstrates how I learned and practiced **Amazon EC2** by launchin
 - Launch instance 🎉
 ```
 📸 *Screenshot:*  
-`(![alt text](image-1.png))`
+_(![alt text](image-1.png))_
 
 
 
@@ -52,7 +52,7 @@ Check in browser:
 `http://<EC2-Public-IP>`
 
 📸 *Screenshot:*
-`(![alt text](image-3.png))`
+_(![alt text](image-3.png))_
 
 ---
 
@@ -65,7 +65,7 @@ echo "<h1>Hello from AWS EC2 🚀</h1>" | sudo tee /var/www/html/index.html
 Open in browser → you should see your custom page.
 
 📸 *Screenshot:*
-`(![alt text](image.png))`
+_(![alt text](image.png))_
 
 ---
 
@@ -96,6 +96,7 @@ ec2-setup/
 * Gained hands-on cloud skills applicable to **real DevOps/Cloud projects**
 
 ---
+
 
 
 
