@@ -24,11 +24,11 @@ This project demonstrates how I learned and practiced **Amazon EC2** by launchin
 - Create new **key pair** → download `.pem` file
 - Configure security group → allow **SSH (22)** and **HTTP (80)**
 - Launch instance 🎉
-
+```
 📸 *Screenshot:*  
 `(![alt text](image-1.png))`
 
----
+
 
 ### 2. Connect to EC2
 ```bash
@@ -96,4 +96,5 @@ ec2-setup/
 * Gained hands-on cloud skills applicable to **real DevOps/Cloud projects**
 
 ---
+
 
