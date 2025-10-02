@@ -37,7 +37,7 @@ ssh -i "my-key.pem" ubuntu@<EC2-Public-IP>
 ````
 
 📸 *Screenshot:*
-`(![alt text](image-2.png))`
+_(![alt text](image-2.png))_
 
 ---
 
@@ -96,5 +96,6 @@ ec2-setup/
 * Gained hands-on cloud skills applicable to **real DevOps/Cloud projects**
 
 ---
+
 
 
